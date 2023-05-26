@@ -25,6 +25,6 @@ task idxstats {
     File idxstats = "idxstats.txt"
   }
   runtime {
-    docker: 'ekiernan/wdl-101:v1'
+    docker: 'koissi/wdl-101:v1'
   }
 }
