@@ -1,4 +1,5 @@
 version 1.0
+
 workflow samtoolsIdxstats {
   input {
     File bamfile
