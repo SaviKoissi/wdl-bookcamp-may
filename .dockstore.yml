@@ -3,6 +3,6 @@ version: 1.2
     - subclass: WDL
       primaryDescriptorPath: /wdl-101-bam.wdl
       testParameterFiles:
-      - /optional.json
+        - /optional.json
       authors:
-      - orcid: 0000-0002-7691-0495
+        - orcid: 0000-0002-7691-0495
